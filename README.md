@@ -25,6 +25,7 @@ Exploratory Data Analysis has been performed on the dataset incorporating some t
 
 ### Live-Deployment Link:
 Please use this link to view the deployed code - https://huggingface.co/spaces/haikookhandor/car_classifier 
+New link - https://huggingface.co/spaces/haikookhandor/trial
 
 Note: Currently this shows only the performance on the test data, if you wish to see performance on custom dataset, follow instructions given in "How to use" section above. 
 
